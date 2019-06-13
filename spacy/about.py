@@ -3,7 +3,7 @@
 # https://github.com/pypa/warehouse/blob/master/warehouse/__about__.py
 # fmt: off
 
-__title__ = "spacy"
+__title__ = "spacy-asapp"
 __version__ = "2.1.4"
 __summary__ = "Industrial-strength Natural Language Processing (NLP) with Python and Cython"
 __uri__ = "https://spacy.io"
