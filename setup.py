@@ -209,7 +209,7 @@ def setup_package():
             generate_cython(root, "spacy")
 
         setup(
-            name=about["__title__"],
+            name=about["__title__"] + "-asapp",
             zip_safe=False,
             packages=PACKAGES,
             package_data=PACKAGE_DATA,
